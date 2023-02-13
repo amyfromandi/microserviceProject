@@ -2,6 +2,11 @@
 
 The eBird microservice receives a latitude and longitude and returns a JSON array of
 all birds recorded in the area from the past 30 days.
+
+
+## Workflow
+![img_3.png](img_3.png)
+
 ## Installation
 
 Go to root microserviceProject directory. Run each command below.
